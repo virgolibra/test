@@ -6,3 +6,7 @@ This is a test repository for a CE lab - I am editing the readme via the web int
 
 
 This is the test#2 - I am editing the readme local copy via Typora.
+
+
+
+This is test#3 - I am editing the readme local copy via Typora and test git bash to push.
